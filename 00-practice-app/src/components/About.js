@@ -8,7 +8,17 @@ const About = () => {
           About Me
         </h1>
       </div>
-      <div className="flew-row"></div>
+      <div className="flew-row">
+        <div class="intro">
+          <div class="image-intro">
+            {/* <img src={} style={{}} /> */}
+          </div>
+          <p>
+            i live in florida.
+
+          </p>
+        </div>
+      </div>
     </section>
     
   )
